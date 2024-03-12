@@ -1,26 +1,4 @@
-
- <!DOCTYPE html>
-<html>
-<head>
-<style>
-@keyframes shake {
-  0% { transform: rotate(0deg); }
-  25% { transform: rotate(20deg); }
-  50% { transform: rotate(0deg); }
-  75% { transform: rotate(-20deg); }
-  100% { transform: rotate(0deg); }
-}
-
-.hand-shake {
-  animation: shake 0.5s infinite;
-}
-</style>
-</head>
-<body>
-
-<h1 align="center">Hi 👋, I'm Romina Goodarzi</h1> 
-<h3 align="center">An econophile, Coding for Pleasure</h3> 
-<img class="hand-shake" align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-247.jpg">
+<h1 align="center">Hi 👋, I'm Romina Goodarzi</h1> <h3 align="center">An econophile, Coding for Pleasure</h3> <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-247.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rominagoodarzi&label=Profile%20views&color=0e75b6&style=flat" alt="rominagoodarzi" /> </p>
 
@@ -44,6 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rominagoodarzi&show_icons=true&locale=en&layout=compact" alt="rominagoodarzi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rominagoodarzi&show_icons=true&locale=en" alt="rominagoodarzi" /></p>
-
-</body>
-</html>
