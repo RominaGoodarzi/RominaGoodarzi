@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1-YNS30G0F3WlLpQNlCfcC55sKRx4-PV8](https://drive.google.com/drive/folders/1-YNS30G0F3WlLpQNlCfcC55sKRx4-PV8)
 
-- ⚡ Fun fact **A meme enthusiast**
+- ⚡ Fun fact **Interested in memes**
 
 <h3 align="left">Connect with me:</h3>
 </h3>
