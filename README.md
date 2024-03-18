@@ -46,7 +46,7 @@
     <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" alt="STATA" width="40" height="40"/>
       </a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="30" height="40"/>
     </a>
 
     <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
