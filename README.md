@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rominagoodarzi&label=Profile%20views&color=0e75b6&style=flat" alt="rominagoodarzi" /> </p>
 
-- 💬 Ask me about **Economics and Programming**
+- 💬 Ask me about: **Economics and Programming**
 
-- 📫 How to reach me **rominagoodarzi7@gmail.com**
+- 📫 How to reach me: **rominagoodarzi7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-YNS30G0F3WlLpQNlCfcC55sKRx4-PV8](https://drive.google.com/drive/folders/1-YNS30G0F3WlLpQNlCfcC55sKRx4-PV8)
+- 📄 Know about my experiences: [https://drive.google.com/drive/folders/1-YNS30G0F3WlLpQNlCfcC55sKRx4-PV8](https://drive.google.com/drive/folders/1-YNS30G0F3WlLpQNlCfcC55sKRx4-PV8)
 
-- ⚡ Fun fact **Interested in memes**
+- ⚡ Fun fact: **Interested in memes**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
