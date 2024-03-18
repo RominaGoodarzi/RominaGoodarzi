@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rominagoodarzi&label=Profile%20views&color=0e75b6&style=flat" alt="rominagoodarzi" /> </p>
 
-- **💬 Ask me about:** **Economics and Programming**
+- **💬 Ask me about:** Economics and Programming
 
-- 📫 How to reach me: **rominagoodarzi7@gmail.com**
+- **📫 How to reach me:** rominagoodarzi7@gmail.com
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/drive/folders/1-YNS30G0F3WlLpQNlCfcC55sKRx4-PV8" target="_blank">CV</a>
+- **📄 Know about my experiences:** <a href="https://drive.google.com/drive/folders/1-YNS30G0F3WlLpQNlCfcC55sKRx4-PV8" target="_blank">CV</a>
 
-- ⚡ Fun fact: **Interested in memes**
+- **⚡ Fun fact:** Interested in memes
   
-- Follow me on:
+- **Follow me on:**
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/rominagoodarzi) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/romina-goodarzi/)
