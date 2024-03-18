@@ -29,9 +29,6 @@
 <img align="left" alt="STATA" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" />
 <img align="left" alt="latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://numpy.org/images/logos/numpy.svg" />
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" />
 
 <br>
 <br>
