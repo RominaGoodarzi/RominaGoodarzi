@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **rominagoodarzi7@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/drive/folders/1-YNS30G0F3WlLpQNlCfcC55sKRx4-PV8" target="_blank">Experience</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/drive/folders/1-YNS30G0F3WlLpQNlCfcC55sKRx4-PV8" target="_blank">CV</a>
 
 - ⚡ Fun fact: **Interested in memes**
 
