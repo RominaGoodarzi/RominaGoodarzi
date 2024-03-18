@@ -11,6 +11,8 @@
 - 📄 Know about my experiences: <a href="https://drive.google.com/drive/folders/1-YNS30G0F3WlLpQNlCfcC55sKRx4-PV8" target="_blank">CV</a>
 
 - ⚡ Fun fact: **Interested in memes**
+  
+- Follow me on:
 
 - Languages and Tools:
 <p align="left">
