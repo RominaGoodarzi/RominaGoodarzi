@@ -21,6 +21,12 @@
 
 
 - **Languages and Tools:**
+<style>
+    a {
+        text-decoration: none; /* Remove underline */
+    }
+</style>
+
 <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -53,6 +59,7 @@
         <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" />
     </a>
 </p>
+
 
 
 - **Some statistics:**
