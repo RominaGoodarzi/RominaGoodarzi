@@ -21,7 +21,6 @@
 
 - **Programming skills:**
 
-<img align="left" alt="r" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" />
