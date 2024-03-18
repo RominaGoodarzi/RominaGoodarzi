@@ -14,22 +14,6 @@
   
 - **Follow me on:**
 
-<p align="left">
-  <a href="https://twitter.com/rominagoodarzi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rominagoodarzi" height="30" width="40" />
- 
-  <a href="https://linkedin.com/in/romina-goodarzi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romina-goodarzi" height="30" width="40" />
-    
-  <a href="https://github.com/YourGitHubUsername" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YourGitHubUsername" height="30" width="40" />
-  
-</p>
-
-
-
-
-
 
 - **Languages and Tools:**
 <p align="left">
