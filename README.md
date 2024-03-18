@@ -50,7 +50,7 @@
     </a>
 
     <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-        <img src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" alt="SQL" width="40" height="40"/>
+        <img src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" alt="SQL" width="20" height="40"/>
     </a>
 
 </p>
