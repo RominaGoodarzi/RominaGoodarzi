@@ -39,7 +39,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
     <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" />
 </p>
 
-##### Some statistics :
+
 | Activity | Languages |
 |----------|-----------|
 | ![GHstats ](https://github-readme-stats.vercel.app/api?username=rominagoodarzi&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rominagoodarzi&layout=compact&theme=dracula) |
