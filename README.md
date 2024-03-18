@@ -40,6 +40,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rominagoodarzi&show_icons=true&locale=en&layout=compact" alt="rominagoodarzi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rominagoodarzi&show_icons=true&locale=en" alt="rominagoodarzi" /></p>
+##### Some statistics :
+  Activity             |  Languages
+:-------------------------:|:-------------------------:
+![GHstats ](https://github-readme-stats.vercel.app/api?username=KipedeneCoulibaly&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KipedeneCoulibaly&layout=compact&theme=dracula)  
