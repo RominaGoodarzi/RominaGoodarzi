@@ -40,6 +40,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 </p>
 
 - Some statistics:
+  
 | Activity | Languages |
 |----------|-----------|
 | ![GHstats ](https://github-readme-stats.vercel.app/api?username=rominagoodarzi&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rominagoodarzi&layout=compact&theme=dracula) |
