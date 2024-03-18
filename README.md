@@ -14,9 +14,10 @@
   
 - **Follow me on:**
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/rominagoodarzi) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' style='color: #0077B5'>](https://www.linkedin.com/in/romina-goodarzi/)
-[<img src='https://simpleicons.org/icons/twitter.svg' alt='twitter' height='30' style='color: #1DA1F2'>](https://twitter.com/rominagoodarzi)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/rominagoodarzi)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/romina-goodarzi/)
+[<img src='https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg' alt='twitter' height='30'>](https://twitter.com/rominagoodarzi)
+
 
 
 
