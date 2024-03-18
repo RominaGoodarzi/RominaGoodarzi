@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Romina Goodarzi</h1> 
+<h1 align="center">Hi 👋, I'm Romina</h1> 
 <h3 align="center">An econophile coding for Pleasure</h3> 
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/cute-girl-cartoon-with-laptop-design-illustration_454510-247.jpg">
 
