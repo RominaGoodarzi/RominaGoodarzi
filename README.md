@@ -50,8 +50,9 @@
         <img align="left" alt="latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
     </a>
     <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-        <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" />
+        <img src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" alt="SQL" width="40" height="40"/>
     </a>
+
 </p>
 
 
