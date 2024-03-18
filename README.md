@@ -48,7 +48,6 @@
       </a>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
     </a>
-
     <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
         <img src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" alt="SQL" width="20" height="40"/>
     </a>
