@@ -41,13 +41,19 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-    <img align="left" alt="STATA" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" />
-    <img align="left" alt="latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-    <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" />
+    <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
+        <img align="left" alt="STATA" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Stata_Logo.svg" />
+    </a>
+    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+        <img align="left" alt="latex" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+    </a>
+    <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
+        <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" />
+    </a>
 </p>
+
 
 - **Some statistics:**
   
