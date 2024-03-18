@@ -20,7 +20,7 @@
 
 
 
-- Languages and Tools:
+- **Languages and Tools:**
 <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -49,7 +49,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
     <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://pixhost.icu/avaxhome/2c/18/0059182c.jpg" />
 </p>
 
-- Some statistics:
+- **Some statistics:**
   
 | Activity | Languages |
 |----------|-----------|
