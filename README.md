@@ -13,9 +13,7 @@
 - **⚡ Fun fact:** Interested in memes
   
 - **Follow me on:**
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/rominagoodarzi)
-[<img ##### Follow me on:
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/rominagoodarzi)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/romina-goodarzi/)
 [<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="30"><path d="M22.46 5.67a6.28 6.28 0 0 1-1.88.516 3.165 3.165 0 0 0 1.387-1.746 6.35 6.35 0 0 1-2.002.764 3.165 3.165 0 0 0-5.402 2.882A8.991 8.991 0 0 1 5.37 4.773 3.162 3.162 0 0 0 6.07 8.39a3.155 3.155 0 0 1-1.432-.396v.04a3.166 3.166 0 0 0 2.543 3.106 3.18 3.18 0 0 1-.836.112 3.146 3.146 0 0 1-.587-.056c.396 1.226 1.54 2.118 2.897 2.145a6.342 6.342 0 0 1-3.922 1.348c-.253 0-.504-.015-.75-.045a8.944 8.944 0 0 0 4.826 1.414c5.8 0 8.975-4.796 8.975-8.965 0-.136-.004-.27-.01-.404a6.416 6.416 0 0 0 1.572-1.63l.002-.001z"/></svg>](https://twitter.com/romina-goodarzi)
