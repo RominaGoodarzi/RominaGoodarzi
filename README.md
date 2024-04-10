@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rominagoodarzi&label=Profile%20views&color=0e75b6&style=flat" alt="rominagoodarzi" /> </p>
 
-- **💬 Ask me about:** Economics and Programming
+- **💬 Ask me about:** Economics and Coding
 
 - **📫 How to reach me:** rominagoodarzi7@gmail.com
 
